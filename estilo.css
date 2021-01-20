@@ -1,0 +1,123 @@
+/*AUTOR: Alexander Costa Brandao */
+/* @brandao_alexander */ 
+
+/*********************/
+/* barra de navgaçao */
+/*********************/
+
+.primeirabarra{
+    background: #17a091;
+    height:35px; 
+    font-size:12px;
+    color: white;   
+}
+.cor1{
+    background: #149285;
+}
+.cor2{
+    background: #29b1a3;
+}
+.segundabarra{
+    background: #033641;
+    height:120px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+/*********************/
+/*     Conteudo      */
+/*********************/
+h1{
+    width:675px;
+}
+h2{
+    padding:70px;
+    font-size:30px;
+    margin-left:100px;
+}
+h3{
+    font-size:20px;
+    margin-top: 30px;
+}
+
+#home{
+    height: 800px;
+}
+#parag1{
+    width: 650px;
+}
+.letra-azul{
+    color:#17a091;
+}
+.fundo{
+    background: url(../img/estudante1.png) no-repeat right;
+    padding: 20px;
+    margin-right: 150px;
+}
+#conteudo{
+    height: 500px;
+}
+.fundo2{
+    background: url(../img/estudante2.png) no-repeat left;
+    margin-left: 150px;
+}
+#conteudo-2{
+    float: left;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+aside{
+    float: right;
+    margin-right: 300px;
+    margin-top:-10px;
+}
+.largura{
+    width: 300px;
+}
+.largura1{
+    width: 550px;
+    padding:50px;
+    background: #29b1a3;
+}
+
+.btn-custom{
+    color:white;
+    font-size: 12px;
+    border-radius: 500px;
+    -webkit-border-radius:500px;
+    -moz-border-radius:500px;
+    transition: background 0,4s, color 0.4s;
+    padding: 10px 15px;
+}
+.btn-verde{
+    background:#17a091;
+    color:white;
+}
+
+.terceira-parte{
+    padding: 100px;
+}
+.caixa{
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    width: 498px;
+    padding: 70px
+}
+/*********************/
+/*      rodape       */
+/*********************/
+
+footer{
+    background:#033641;
+    padding:50px 0px 20px 0px;
+}
+footer h4{
+    color: #17a091;
+    font-size: 0.8em;
+    text-transform: uppercase; 
+}
+
+footer .navbar-nav a{
+    color: white;
+}
